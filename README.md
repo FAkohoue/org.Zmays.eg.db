@@ -1,5 +1,5 @@
 # org.Zmays.eg.db
- Genome wide annotation for maize (_Zea mays_ L.), primarily based on mapping using Entrez Gene identifiers and Zm-B73-REFERENCE-NAM-5.0.
+Genome wide annotation for maize (_Zea mays_ L.), primarily based on mapping using Entrez Gene identifiers and Zm-B73-REFERENCE-NAM-5.0.
 
 # Installation in R
 # Install devtools
